@@ -1,0 +1,3 @@
+18:15:35,398  INFO com.facebook.genericpages.Masterclass<strong>{1}</strong>:46 - Chrome browser is opened
+18:15:35,545  INFO com.facebook.genericpages.Masterclass<strong>{1}</strong>:64 - Browser is maximized
+18:15:36,788  INFO com.facebook.genericpages.Masterclass<strong>{1}</strong>:67 - Instagram is opened. Login page is displayed to user.
